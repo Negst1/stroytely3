@@ -1,0 +1,20 @@
+.portfolioCard-photoArea{
+    width: 200px;
+    height: 150px;
+}
+
+.portfolio-photo{
+    width: 200px;
+    height: 150px;
+
+}
+
+.portfolioCard-title{
+    width: inherit;
+    overflow: hidden;
+}
+
+.portfolioCard-description{
+    width: inherit;
+    overflow: hidden;
+}
